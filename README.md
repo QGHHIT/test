@@ -6,6 +6,12 @@
 
 ### 体验好
 
+<style>
+table th:first-of-type {
+	width: 100px;
+}
+</style>
+
 |  1   |  2   |  3   |
 | :--: | :--: | :--: |
 |  4   |  5   |  6   |
