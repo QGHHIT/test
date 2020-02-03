@@ -10,7 +10,7 @@
 | 7    | 8    | 9    |
 |      |      |      |
 
-![lena-std](README.assets/lena-std.png)
+![lena-std](testmarkdown.assets/lena-std.png)
 
 :smile:
 
