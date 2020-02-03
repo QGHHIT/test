@@ -4,13 +4,13 @@
 
 ### 体验好
 
-| 1    | 2    | 3    |
-| ---- | ---- | ---- |
-| 4    | 5    | 6    |
-| 7    | 8    | 9    |
+|  1   |  2   |  3   |
+| :--: | :--: | :--: |
+|  4   |  5   |  6   |
+|  7   |  8   |  9   |
 |      |      |      |
 
-![lena-std](README.assets/lena-std.png)
+<img src="README.assets/lena-std.png" alt="lena-std" style="zoom: 33%;" />
 
 :smile:
 
@@ -24,5 +24,5 @@ int main(){
 }
 ```
 
-
+[百度网站]: baidu.com	" test"
 
